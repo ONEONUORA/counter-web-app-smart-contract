@@ -3,8 +3,8 @@ target
 
 account.json
 keystore.json
+.env
 
-
-Contract deployment transaction: 0x01eec73108d5c6e1cd88c95d6a78fd2d5f156827bfa5ca2b30e7d287de81b5d4
+Contract deployment transaction hash: 0x01eec73108d5c6e1cd88c95d6a78fd2d5f156827bfa5ca2b30e7d287de81b5d4
 Contract deployed:
 0x07fc0ba508a9c5a95d0db5b97093071ba13f4b64af9bddf3087b4717262a47eb
